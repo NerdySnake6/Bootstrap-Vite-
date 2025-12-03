@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Минимальный Luxon App</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar"></div>
+        <div class="main">
+            <button id="showTimeBtn">Показать время</button>
+        </div>
+        <div class="sidebar"></div>
+    </div>
+
+    <div id="timeModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Калинин Игорь</h5>
+                <button class="close-btn">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div id="currentTime" class="time-display"></div>
+            </div>
+            <div class="modal-footer">
+                <button id="closeModalBtn" class="btn btn-secondary">Закрыть</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="bundle-info">Бандл: ~15KB</div>
+
+    <script type="module" src="./js/main.js"></script>
+</body>
+</html>
