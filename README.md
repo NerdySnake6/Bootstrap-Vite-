@@ -1,3 +1,5 @@
+Я вижу, что структура проекта отображается сломано. Исправлю форматирование:
+
 ```markdown
 # Bootstrap + Vite Starter
 
@@ -24,6 +26,7 @@ npm run dev
 
 ## Структура проекта
 
+```
 Bootstrap-Vite-/
 ├── src/
 │   ├── index.html
@@ -34,6 +37,7 @@ Bootstrap-Vite-/
 ├── package-lock.json
 ├── vite.config.js
 └── README.md
+```
 
 ## Команды
 
@@ -46,4 +50,3 @@ Bootstrap-Vite-/
 - Vite
 - Bootstrap 5
 - Popper.js
-```
