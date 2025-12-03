@@ -22,7 +22,7 @@ npm install
 ```bash
 npm run dev
 ```
-Сервер запустится на http://localhost:5173
+Сервер запустится на http://localhost:8000
 
 ## Структура проекта
 
