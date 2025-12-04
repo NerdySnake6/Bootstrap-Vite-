@@ -1,7 +1,7 @@
 ```markdown
 # Bootstrap + Vite Starter
 
-Минимальный шаблон для проектов с Bootstrap 5 и Vite.
+Минимальный шаблон для проектов с Bootstrap и Vite.
 
 ## Запуск
 
