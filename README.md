@@ -26,10 +26,11 @@ npm run dev
 
 ```
 Bootstrap-Vite-/
-├──Screenshot  
-├──Screenshot
-├──Screenshot
-├──Screenshot
+├── Screenshot/
+│   ├── Screenshot
+│   ├── Screenshot
+│   ├── Screenshot
+│   └── Screenshot
 ├── src/
 │   ├── index.html
 │   ├── style.css
