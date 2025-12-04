@@ -37,7 +37,6 @@ Bootstrap-Vite-/
 │   └── js/
 │       └── main.js
 ├── package.json
-├── package.json
 ├── vite.config.js
 └──README.md
 ```
