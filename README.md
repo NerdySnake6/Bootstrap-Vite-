@@ -26,7 +26,10 @@ npm run dev
 
 ```
 Bootstrap-Vite-/
-├──README.md
+├──Screenshot  
+├──Screenshot
+├──Screenshot
+├──Screenshot
 ├── src/
 │   ├── index.html
 │   ├── style.css
@@ -35,10 +38,7 @@ Bootstrap-Vite-/
 ├── package.json
 ├── package-lock.json
 ├── vite.config.js
-├──Screenshot  
-├──Screenshot
-├──Screenshot
-└──Screenshot
+└──README.md
 ```
 
 ## Команды
